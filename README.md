@@ -28,7 +28,7 @@ This survey is split into two main portions:
 
 ## Instructions
 
-In the questionnaire, you will be faced with a number of questions for which you will have to judge how well 
+In the questionnaire, you will be faced with a number of questions for which you will have to judge the _equivalence_ of an aspect of your study compared to the base study.
 
 
 
